@@ -1,2 +1,3 @@
 commit second,
-third commit
+third commit,
+fourth commit
